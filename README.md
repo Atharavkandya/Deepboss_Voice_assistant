@@ -28,4 +28,4 @@ Deepboss is a voice-controlled virtual assistant built using Python. It can unde
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/YOUR_USERNAME/Deepboss_Voice_assistant.git
+git clone https://github.com/Atharavkandya/Deepboss_Voice_assistant.git
